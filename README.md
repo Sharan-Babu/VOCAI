@@ -16,6 +16,8 @@ pip install requirements.txt
 streamlit run Fb_AI.py
 ~~~
 </ol>
+## Access token - wit.ai
+You can get your acces token by signing up and creating a new project. This is also where you create utterances/sentences and extract necessary/meaningful insights like entity and intent from it. In this case, I use it to generate according to user's request. You can use your access token where the code reads <your_access_token>.
 
 ## Images of the app:
 
