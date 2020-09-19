@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run Fb_AI.py
