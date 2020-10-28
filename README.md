@@ -1,5 +1,4 @@
 # VOCAI
-<b><u>Demo Link</u></b>: https://youtu.be/E1D_kdOuTtc <br>
 Voice based code editor assistant web application. Submission for Facebook AI Hackathon
 
 # Steps to run the program:
